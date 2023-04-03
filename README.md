@@ -15,4 +15,5 @@ main
 ```
 
 #Note
-be gentle it's my first program on haskell :)
+
+Be gentle plz, it's my first program on haskell :)
